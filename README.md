@@ -31,6 +31,10 @@ The combined paper merges the revised 2nd edition with its companion note via
 `scripts/combine_papers.py` (not included here; see the compendium project), renumbering sections,
 worked examples, figures, and references rather than dropping any content.
 
+## Citation
+
+See [CITATION.cff](CITATION.cff) (also used by GitHub's "Cite this repository" button).
+
 ## License
 
 MIT, see [LICENSE](LICENSE).
