@@ -23,6 +23,9 @@ identifiers:
     value: 10.5281/zenodo.23435550
     description: "Concept DOI -- always resolves to the latest version on Zenodo"
   - type: doi
+    value: 10.5281/zenodo.23443271
+    description: "Archived snapshot of version v1.1.0 on Zenodo"
+  - type: doi
     value: 10.5281/zenodo.23435551
     description: "Archived snapshot of version v1.0.0 on Zenodo"
 repository-code: "https://github.com/Ajuntanaga/cubic-time-dimensions-in-quantum-mechanics"
