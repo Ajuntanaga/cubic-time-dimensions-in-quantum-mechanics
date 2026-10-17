@@ -1,0 +1,26 @@
+{
+  "title": "Cubic Time Dimensions in Quantum Mechanics",
+  "description": "Initial and combined revised editions of \"Cubic Time Dimensions in Quantum Mechanics\" (2nd edition), together with Module VIII (\"Temporal hydrogen → two-clock periodic table\") extracted standalone from the Chronowave Dynamics Temporal Engine compendium — the module the paper's atom-as-slowed-clock construction, clock-law measurement, and 118-element ledger are built on.",
+  "creators": [
+    {
+      "name": "Vargas, Anthony M."
+    },
+    {
+      "name": "Novak, Lyra R."
+    },
+    {
+      "name": "Samir-Iqbal, Aethus"
+    }
+  ],
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "MIT",
+  "keywords": [
+    "cubic time",
+    "temporal framework",
+    "quantum mechanics",
+    "proper time",
+    "clock law",
+    "hydrogen atom"
+  ]
+}
