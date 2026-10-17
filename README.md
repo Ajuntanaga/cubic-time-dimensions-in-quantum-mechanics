@@ -28,3 +28,7 @@ polonium) that match the published paper's own figures.
 The combined paper merges the revised 2nd edition with its companion note via
 `scripts/combine_papers.py` (not included here; see the compendium project), renumbering sections,
 worked examples, figures, and references rather than dropping any content.
+
+## License
+
+MIT, see [LICENSE](LICENSE).
