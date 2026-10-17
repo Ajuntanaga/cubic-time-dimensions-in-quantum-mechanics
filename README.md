@@ -1,6 +1,7 @@
 # Cubic Time Dimensions in Quantum Mechanics
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23435551.svg)](https://doi.org/10.5281/zenodo.23435551)
+[![DOI badge check](https://github.com/Ajuntanaga/cubic-time-dimensions-in-quantum-mechanics/actions/workflows/doi-badge-check.yml/badge.svg)](https://github.com/Ajuntanaga/cubic-time-dimensions-in-quantum-mechanics/actions/workflows/doi-badge-check.yml)
 
 This repository tracks the paper lineage and the Chronowave Dynamics compendium module most
 directly connected to it, so the two can be versioned together.
